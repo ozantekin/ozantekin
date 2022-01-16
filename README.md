@@ -12,7 +12,7 @@
 - :page_with_curl: Linkedin/Profession  ⟶  <a href="https://www.linkedin.com/in/ardilozantekin/">LinkedIn</a> 
 
 - :pushpin: You can follow me on [Twitter](https://twitter.com/dogancna).
-- :mailbox_with_mail: You can send me a message on **hi@ozantekin.dev** .
+- :mailbox_with_mail: You can send me a message on **hi@ozantekin.dev**.
 
 <br />
 
