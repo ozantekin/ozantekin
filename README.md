@@ -6,7 +6,7 @@
 
 #### I'm a computer engineering student, full time front-end developer. I am eager to learn software and spend an average of 10 hours a day working and researching the software world.
 
-- :star: I’m currently learning <font color="#ffc300"> JavaScript </font>.
+- :star: I’m currently learning **JavaScript**.
 - :black_nib: I regularly write articles on [Medium](https://medium.com/@ozantekindev).
 - :calendar: 1:1 ⟶ [Superpeer](https://superpeer.com/ozantekin)
 - :page_with_curl: Linkedin/Profession  ⟶  <a href="https://www.linkedin.com/in/ardilozantekin/">LinkedIn</a> 
