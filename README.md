@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ozan </h1>
+<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ozan. </h1>
 
 <p align="center"> Jr.Front-End Developer | Blog Writer | Computer Engineering Student</p>
 
@@ -10,7 +10,7 @@
 - :black_nib: I regularly write articles on [Medium](https://medium.com/@ozantekindev).
 - :calendar: 1:1 ⟶ [Superpeer](https://superpeer.com/ozantekin)
 - :page_with_curl: Linkedin/Profession  ⟶  <a href="https://www.linkedin.com/in/ardilozantekin/">LinkedIn</a> 
-
+- :globe_with_meridians: My personal website  ⟶  <a href="https:/ozantekin.dev/">ozantekin.dev</a>
 - :pushpin: You can follow me on [Twitter](https://twitter.com/dogancna).
 - :mailbox_with_mail: You can send me a message on **hi@ozantekin.dev**.
 
@@ -19,7 +19,7 @@
 ## Latest Blog Posts
 - [Sıfırdan Yazılıma Başlıyorum Ne Yapmalıyım ?](https://medium.com/@ozantekindev/s%C4%B1f%C4%B1rdan-yaz%C4%B1l%C4%B1ma-ba%C5%9Fl%C4%B1yorum-ne-yapmal%C4%B1y%C4%B1m-7d485f63e625?p=7d485f63e625)
 - [Solidity Developer olma yol haritası (2022)](https://medium.com/@ozantekindev/solidity-developer-olma-yol-haritas%C4%B1-2022-8d40487b4fe?p=8d40487b4fe)
-- [Yazılımcılara Zamandan Tasarruf Sağlatacak 20'den Fazla Araç](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
+- [Yazılımcılara Zamandan Tasarruf Sağlatacak 20'den Fazla Araç](https://medium.com/@ozantekindev/yaz%C4%B1l%C4%B1mc%C4%B1lara-zamanda-tasarruf-sa%C4%9Flatacak-20den-fazla-ara%C3%A7-4abfe0f7100c?p=4abfe0f7100c)
 - [Nash Dengesi](https://medium.com/@ozantekindev/nash-dengesi-9f227c31c1c9)
 - [Hangi dili öğrenmeliyim?](https://medium.com/@ozantekindev/hangi-dili-%C3%B6%C4%9Frenmeliyim-63c506dee82c?p=63c506dee82c)
 
