@@ -32,7 +32,8 @@
 
 <details>
 <summary> 💻 Most Used Languages</summary>
-<p>
+<p> &nbsp;
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozantekin&layout=compact&theme=blue)](https://github.com/ozantekin)
 </p>
 </details>
