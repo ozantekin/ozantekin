@@ -33,7 +33,7 @@
 <details>
 <summary> 💻 Most Used Languages</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozantekin&layout=compact&theme=midnight-purple)](https://github.com/Akash1362000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozantekin&layout=compact&theme=blue)](https://github.com/ozantekin)
 </details>
 
 
