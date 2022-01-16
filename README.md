@@ -8,13 +8,13 @@
 
 #### I'm a computer engineering student, full time front-end developer. I am eager to learn software and spend an average of 10 hours a day working and researching the software world.
 
-- :star: I’m currently learning <a href="#">JavaScript</a>.
+- :star: I’m currently learning <a href="#">**JavaScript**</a>.
 - :black_nib: I regularly write articles on [Medium](https://medium.com/@ozantekindev).
 - :calendar: 1:1 ⟶ [Superpeer](https://superpeer.com/ozantekin)
 - :page_with_curl: Linkedin/Profession  ⟶  <a href="https://www.linkedin.com/in/ardilozantekin/">LinkedIn</a> 
 - :globe_with_meridians: My personal website  ⟶  <a href="https://www.ozantekin.dev/">ozantekin.dev</a>
 - :pushpin: You can follow me on [Twitter](https://twitter.com/ozantekindev).
-- :mailbox_with_mail: You can send me a message on **hi@ozantekin.dev**.
+- :mailbox_with_mail: You can send me a message on hi@ozantekin.dev.
 ## Latest Blog Posts
 - [Sıfırdan Yazılıma Başlıyorum Ne Yapmalıyım ?](https://medium.com/@ozantekindev/s%C4%B1f%C4%B1rdan-yaz%C4%B1l%C4%B1ma-ba%C5%9Fl%C4%B1yorum-ne-yapmal%C4%B1y%C4%B1m-7d485f63e625?p=7d485f63e625)
 - [Solidity Developer olma yol haritası (2022)](https://medium.com/@ozantekindev/solidity-developer-olma-yol-haritas%C4%B1-2022-8d40487b4fe?p=8d40487b4fe)
