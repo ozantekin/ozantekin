@@ -27,12 +27,14 @@
 
 <details >
 <summary> 💡 Github Stats</summary>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ozantekin&&show_icons=true&count_private=true&include_all_commits=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=ozantekin"/></p>
+<p>&nbsp;
+
+<img src="https://github-readme-stats.vercel.app/api?username=ozantekin&&show_icons=true&count_private=true&include_all_commits=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=ozantekin"/></p>
 </details>
 
 <details>
 <summary> 💻 Most Used Languages</summary>
-<p> &nbsp;
+<p> &nbsp; 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozantekin&layout=compact&theme=blue)](https://github.com/ozantekin)
 </p>
