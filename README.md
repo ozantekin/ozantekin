@@ -10,8 +10,8 @@
 - :black_nib: I regularly write articles on [Medium](https://medium.com/@ozantekindev).
 - :calendar: 1:1 ⟶ [Superpeer](https://superpeer.com/ozantekin)
 - :page_with_curl: Linkedin/Profession  ⟶  <a href="https://www.linkedin.com/in/ardilozantekin/">LinkedIn</a> 
-- :globe_with_meridians: My personal website  ⟶  <a href="https:/ozantekin.dev/">ozantekin.dev</a>
-- :pushpin: You can follow me on [Twitter](https://twitter.com/dogancna).
+- :globe_with_meridians: My personal website  ⟶  <a href="https://www.ozantekin.dev/">ozantekin.dev</a>
+- :pushpin: You can follow me on [Twitter](https://twitter.com/ozantekindev).
 - :mailbox_with_mail: You can send me a message on **hi@ozantekin.dev**.
 
 <br />
