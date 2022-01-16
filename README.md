@@ -3,6 +3,8 @@
 <p align="center"> Jr.Front-End Developer | Blog Writer | Computer Engineering Student</p>
 
 ![Profile views](https://gpvc.arturio.dev/ozantekin)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ozantekindev?style=social)](https://twitter.com/ozantekindev)
+
 
 #### I'm a computer engineering student, full time front-end developer. I am eager to learn software and spend an average of 10 hours a day working and researching the software world.
 
