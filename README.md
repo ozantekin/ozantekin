@@ -27,8 +27,7 @@
 <details >
 <summary> 💡 Github Stats</summary>
 <p>&nbsp;
-
-<img src="https://github-readme-stats.vercel.app/api?username=ozantekin&&show_icons=true&count_private=true&include_all_commits=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=ozantekin"/></p>
+ <img src="https://github-readme-stats.vercel.app/api?username=ozantekin&&show_icons=true&count_private=true&include_all_commits=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=ozantekin"/></p>
 </details>
 
 <details>
@@ -36,6 +35,16 @@
 <p> &nbsp; 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozantekin&layout=compact&theme=blue)](https://github.com/ozantekin)
+</p>
+</details>
+<details>
+<summary> ✨ Top Repositories</summary>
+<p> &nbsp; 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=ozantekin&repo=100DaysOfJS&theme=buefy" />
+</a>
+
 </p>
 </details>
 
