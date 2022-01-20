@@ -27,7 +27,7 @@
 <details >
 <summary> 💡 Github Stats</summary>
 
-<p> &nbsp;
+<p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ozantekin&&show_icons=true&count_private=true&include_all_commits=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=ozantekin"/></p>
 </details>
@@ -35,7 +35,7 @@
 <details>
 <summary> 💻 Most Used Languages</summary>
 
-<p> &nbsp; 
+<p> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozantekin&layout=compact&theme=blue)](https://github.com/ozantekin)
 </p>
@@ -43,7 +43,7 @@
 <details>
 <summary> ✨ Top Repositories</summary>
 
-<p> &nbsp; 
+<p>
 
 <a href="https://github.com/ozantekin/100DaysOfJS">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ozantekin&repo=100DaysOfJS&theme=buefy" />
