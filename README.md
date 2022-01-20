@@ -40,17 +40,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozantekin&layout=compact&theme=blue)](https://github.com/ozantekin)
 </p>
 </details>
-<details>
-<summary> ✨ Top Repositories</summary>
-
-<p>
-
-<a href="https://github.com/ozantekin/100DaysOfJS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ozantekin&repo=100DaysOfJS&theme=buefy" />
-</a>
-
-</p>
-</details>
 
 
 
