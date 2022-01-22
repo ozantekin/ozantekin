@@ -6,24 +6,22 @@
 
 
 
-
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ardilozantekin/)
+<a target="_blank" href="https://medium.com/@ozantekindev"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a> 
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ozantekindev) [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@ozantekin.dev) [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.ozantekin.dev/)
 
 
 
 #### I'm a computer engineering student, full time front-end developer. I am eager to learn software and spend an average of 10 hours a day working and researching the software world.
 
-- 🧠 I’m currently learning <img src="icon/javascript.png" height="25px" />
+- 🧠 I’m currently learning <a href="#">**JavaScript**</a>.
 - :calendar: 1:1 ⟶ [Superpeer](https://superpeer.com/ozantekin)
-  
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ardilozantekin/)
-<a target="_blank" href="https://medium.com/@ozantekindev"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a> 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ozantekindev) [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@ozantekin.dev) [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.ozantekin.dev/)
 ## Latest Blog Posts
-- [Sıfırdan Yazılıma Başlıyorum Ne Yapmalıyım ?](https://medium.com/@ozantekindev/s%C4%B1f%C4%B1rdan-yaz%C4%B1l%C4%B1ma-ba%C5%9Fl%C4%B1yorum-ne-yapmal%C4%B1y%C4%B1m-7d485f63e625?p=7d485f63e625)
+- [Var, Let, Const Arasındaki Farklar](https://medium.com/@ozantekindev/var-let-const-aras%C4%B1ndaki-farklar-97d8c465469c?p=97d8c465469c)
+- [Array (Dizi) Cheat Sheet & JavaScript](https://medium.com/@ozantekindev/array-dizi-cheat-sheet-javascript-998c4eb910a6)
 - [Solidity Developer olma yol haritası (2022)](https://medium.com/@ozantekindev/solidity-developer-olma-yol-haritas%C4%B1-2022-8d40487b4fe?p=8d40487b4fe)
-- [Yazılımcılara Zamandan Tasarruf Sağlatacak 20'den Fazla Araç](https://medium.com/@ozantekindev/yaz%C4%B1l%C4%B1mc%C4%B1lara-zamanda-tasarruf-sa%C4%9Flatacak-20den-fazla-ara%C3%A7-4abfe0f7100c?p=4abfe0f7100c)
-- [Nash Dengesi](https://medium.com/@ozantekindev/nash-dengesi-9f227c31c1c9)
-- [Hangi dili öğrenmeliyim?](https://medium.com/@ozantekindev/hangi-dili-%C3%B6%C4%9Frenmeliyim-63c506dee82c?p=63c506dee82c)
+- [Linux Komutları Detaylı Cheatsheet (Türkçe ve Örneklerle)](https://medium.com/@ozantekindev/linux-komutlar%C4%B1-i%CC%87%C3%A7in-cheatsheet-t%C3%BCrk%C3%A7e-ve-%C3%B6rneklerle-a6227f907513?p=a6227f907513)
+- [Vim Komutları Detaylı Cheat Sheet (Türkçe ve İpuçlarıyla)](https://medium.com/@ozantekindev/vim-komutlar%C4%B1-detayl%C4%B1-cheat-sheet-t%C3%BCrk%C3%A7e-ve-i%CC%87pu%C3%A7lar%C4%B1yla-73248df4a783?p=73248df4a783)
 
 <br />
 
