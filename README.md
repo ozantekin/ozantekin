@@ -6,9 +6,9 @@
 
 
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ardilozantekin/)
-<a target="_blank" href="https://medium.com/@ozantekindev"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a> 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ozantekindev) [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@ozantekin.dev) [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.ozantekin.dev/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ardilozantekin/) [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@ozantekin.dev) [![portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.ozantekin.dev/) 
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ozantekindev) [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ozantekindev)  [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ozantekindev/) [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC86HNI5ZoebM7zqAVQt6ouw)
 
 
 
@@ -17,9 +17,11 @@
 - 🧠 I’m currently learning <a href="#">**JavaScript**</a>.
 - :calendar: 1:1 ⟶ [Superpeer](https://superpeer.com/ozantekin)
 ## Latest Blog Posts
+- [5Adımda HTML Full Tekrar](https://medium.com/@ozantekindev/5ad%C4%B1mda-html-full-tekrar-507139596cf9)
 - [Var, Let, Const Arasındaki Farklar](https://medium.com/@ozantekindev/var-let-const-aras%C4%B1ndaki-farklar-97d8c465469c?p=97d8c465469c)
 - [Array (Dizi) Cheat Sheet & JavaScript](https://medium.com/@ozantekindev/array-dizi-cheat-sheet-javascript-998c4eb910a6)
-- [Solidity Developer olma yol haritası (2022)](https://medium.com/@ozantekindev/solidity-developer-olma-yol-haritas%C4%B1-2022-8d40487b4fe?p=8d40487b4fe)
+- [CSS Flexbox Handmade Cheat Sheet’ler (Türkçe)](https://medium.com/@ozantekindev/css-flexbox-handmade-cheat-sheetler-t%C3%BCrk%C3%A7e-746342a9807e)
+- [Sıfırdan Yazılıma Başlıyorum Ne Yapmalıyım ?](https://medium.com/@ozantekindev/s%C4%B1f%C4%B1rdan-yaz%C4%B1l%C4%B1ma-ba%C5%9Fl%C4%B1yorum-ne-yapmal%C4%B1y%C4%B1m-7d485f63e625)
 - [JavaScript Handmade 10 Türkçe Cheat Sheet](https://medium.com/@ozantekindev/javascript-handmade-10-t%C3%BCrk%C3%A7e-cheat-sheet-7d63132ea61a)
 - [Linux Komutları Detaylı Cheatsheet (Türkçe ve Örneklerle)](https://medium.com/@ozantekindev/linux-komutlar%C4%B1-i%CC%87%C3%A7in-cheatsheet-t%C3%BCrk%C3%A7e-ve-%C3%B6rneklerle-a6227f907513?p=a6227f907513)
 - [Vim Komutları Detaylı Cheat Sheet (Türkçe ve İpuçlarıyla)](https://medium.com/@ozantekindev/vim-komutlar%C4%B1-detayl%C4%B1-cheat-sheet-t%C3%BCrk%C3%A7e-ve-i%CC%87pu%C3%A7lar%C4%B1yla-73248df4a783?p=73248df4a783)
