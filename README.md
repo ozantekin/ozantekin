@@ -16,13 +16,13 @@
 
 - 🧠 I’m currently learning <a href="#">**JavaScript**</a>.
 - :calendar: 1:1 ⟶ [Superpeer](https://superpeer.com/ozantekin)
-## Latest Blog Posts
-- [5Adımda HTML Full Tekrar](https://medium.com/@ozantekindev/5ad%C4%B1mda-html-full-tekrar-507139596cf9)
+## Best Blog Posts
+- [5 Adımda HTML Full Tekrar](https://medium.com/@ozantekindev/5ad%C4%B1mda-html-full-tekrar-507139596cf9)
 - [Var, Let, Const Arasındaki Farklar](https://medium.com/@ozantekindev/var-let-const-aras%C4%B1ndaki-farklar-97d8c465469c?p=97d8c465469c)
 - [Array (Dizi) Cheat Sheet & JavaScript](https://medium.com/@ozantekindev/array-dizi-cheat-sheet-javascript-998c4eb910a6)
-- [CSS Flexbox Handmade Cheat Sheet’ler (Türkçe)](https://medium.com/@ozantekindev/css-flexbox-handmade-cheat-sheetler-t%C3%BCrk%C3%A7e-746342a9807e)
-- [Sıfırdan Yazılıma Başlıyorum Ne Yapmalıyım ?](https://medium.com/@ozantekindev/s%C4%B1f%C4%B1rdan-yaz%C4%B1l%C4%B1ma-ba%C5%9Fl%C4%B1yorum-ne-yapmal%C4%B1y%C4%B1m-7d485f63e625)
+- [Sıfırdan Yazılıma Başlıyorum Ne Yapmalıyım?](https://medium.com/@ozantekindev/s%C4%B1f%C4%B1rdan-yaz%C4%B1l%C4%B1ma-ba%C5%9Fl%C4%B1yorum-ne-yapmal%C4%B1y%C4%B1m-7d485f63e625)
 - [JavaScript Handmade 10 Türkçe Cheat Sheet](https://medium.com/@ozantekindev/javascript-handmade-10-t%C3%BCrk%C3%A7e-cheat-sheet-7d63132ea61a)
+- [CSS Flexbox Handmade Cheat Sheet’ler (Türkçe)](https://medium.com/@ozantekindev/css-flexbox-handmade-cheat-sheetler-t%C3%BCrk%C3%A7e-746342a9807e)
 - [Linux Komutları Detaylı Cheatsheet (Türkçe ve Örneklerle)](https://medium.com/@ozantekindev/linux-komutlar%C4%B1-i%CC%87%C3%A7in-cheatsheet-t%C3%BCrk%C3%A7e-ve-%C3%B6rneklerle-a6227f907513?p=a6227f907513)
 - [Vim Komutları Detaylı Cheat Sheet (Türkçe ve İpuçlarıyla)](https://medium.com/@ozantekindev/vim-komutlar%C4%B1-detayl%C4%B1-cheat-sheet-t%C3%BCrk%C3%A7e-ve-i%CC%87pu%C3%A7lar%C4%B1yla-73248df4a783?p=73248df4a783)
 
