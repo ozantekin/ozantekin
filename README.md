@@ -15,6 +15,7 @@
 ## Best Blog Posts
 - [5 Adımda HTML Full Tekrar](https://medium.com/@ozantekindev/5ad%C4%B1mda-html-full-tekrar-507139596cf9)
 - [Var, Let, Const Arasındaki Farklar](https://medium.com/@ozantekindev/var-let-const-aras%C4%B1ndaki-farklar-97d8c465469c?p=97d8c465469c)
+- [JavaScript Array Hakkında 15 Cheat Sheet](https://medium.com/@ozantekindev/javascript-array-hakk%C4%B1nda-her-%C5%9Fey-3c7f6c6435a7)
 - [Array (Dizi) Cheat Sheet & JavaScript](https://medium.com/@ozantekindev/array-dizi-cheat-sheet-javascript-998c4eb910a6)
 - [Sıfırdan Yazılıma Başlıyorum Ne Yapmalıyım?](https://medium.com/@ozantekindev/s%C4%B1f%C4%B1rdan-yaz%C4%B1l%C4%B1ma-ba%C5%9Fl%C4%B1yorum-ne-yapmal%C4%B1y%C4%B1m-7d485f63e625)
 - [JavaScript Handmade 10 Türkçe Cheat Sheet](https://medium.com/@ozantekindev/javascript-handmade-10-t%C3%BCrk%C3%A7e-cheat-sheet-7d63132ea61a)
