@@ -13,7 +13,7 @@
 - 🧠 I’m currently learning <a href="https://github.com/ozantekin/100DaysOfJS">**JavaScript**</a>.
 - :calendar: 1:1 ⟶ [Superpeer](https://superpeer.com/ozantekin)
 ## Best Blog Posts
-- [5 Adımda HTML Full Tekrar](https://medium.com/@ozantekindev/5ad%C4%B1mda-html-full-tekrar-507139596cf9)
+
 - [Var, Let, Const Arasındaki Farklar](https://medium.com/@ozantekindev/var-let-const-aras%C4%B1ndaki-farklar-97d8c465469c?p=97d8c465469c)
 - [JavaScript Array Hakkında 15 Cheat Sheet](https://medium.com/@ozantekindev/javascript-array-hakk%C4%B1nda-her-%C5%9Fey-3c7f6c6435a7)
 - [Array (Dizi) Cheat Sheet & JavaScript](https://medium.com/@ozantekindev/array-dizi-cheat-sheet-javascript-998c4eb910a6)
@@ -22,6 +22,7 @@
 - [CSS Flexbox Handmade Cheat Sheet’ler (Türkçe)](https://medium.com/@ozantekindev/css-flexbox-handmade-cheat-sheetler-t%C3%BCrk%C3%A7e-746342a9807e)
 - [Linux Komutları Detaylı Cheatsheet (Türkçe ve Örneklerle)](https://medium.com/@ozantekindev/linux-komutlar%C4%B1-i%CC%87%C3%A7in-cheatsheet-t%C3%BCrk%C3%A7e-ve-%C3%B6rneklerle-a6227f907513?p=a6227f907513)
 - [Vim Komutları Detaylı Cheat Sheet (Türkçe ve İpuçlarıyla)](https://medium.com/@ozantekindev/vim-komutlar%C4%B1-detayl%C4%B1-cheat-sheet-t%C3%BCrk%C3%A7e-ve-i%CC%87pu%C3%A7lar%C4%B1yla-73248df4a783?p=73248df4a783)
+- [JavaScript Arrow Function: Nedir ve Nasıl Kullanılır (ES5 vs ES6)+(11 Cheat Sheet)](https://medium.com/@ozantekindev/javascript-arrow-function-nedir-ve-nas%C4%B1l-kullan%C4%B1l%C4%B1r-es5-vs-es6-7af97a021153)
 
 <br />
 
