@@ -10,7 +10,7 @@
 
 #### I'm a computer engineering student, full time front-end developer. I am eager to learn software and spend an average of 10 hours a day working and researching the software world.
 
-- 🧠 I’m currently learning <a href="https://github.com/ozantekin/100DaysOfJS">**JavaScript**</a>.
+- 🧠 I’m currently learning <a href="https://github.com/ozantekin/100-Days-Of-React">**React**</a>.
 - :calendar: 1:1 ⟶ [Superpeer](https://superpeer.com/ozantekin)
 ## Best Blog Posts
 
