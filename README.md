@@ -12,13 +12,6 @@
 
 - 🧠 I’m currently learning <a href="https://github.com/ozantekin/react-bootcamp">**React**</a>.
 - :calendar: 1:1 ⟶ [Superpeer](https://superpeer.com/ozantekin)
-## Best Blog Posts
-
-- [JavaScript Array Hakkında 15 Cheat Sheet](https://medium.com/@ozantekindev/javascript-array-hakk%C4%B1nda-her-%C5%9Fey-3c7f6c6435a7)
-- [JavaScript Handmade 10 Türkçe Cheat Sheet](https://medium.com/@ozantekindev/javascript-handmade-10-t%C3%BCrk%C3%A7e-cheat-sheet-7d63132ea61a)
-- [CSS Flexbox Handmade Cheat Sheet’ler (Türkçe)](https://medium.com/@ozantekindev/css-flexbox-handmade-cheat-sheetler-t%C3%BCrk%C3%A7e-746342a9807e)
-- [Aradığımı Nasıl Hızlı Bir Şekilde Bulabilirim? (Googling) (22 İpucu)](https://medium.com/@ozantekindev/arad%C4%B1%C4%9F%C4%B1m%C4%B1-nas%C4%B1l-h%C4%B1zl%C4%B1-bir-%C5%9Fekilde-bulabilirim-googling-91f214352cfd)
-- [JavaScript Arrow Function: Nedir ve Nasıl Kullanılır (ES5 vs ES6)+(11 Cheat Sheet)](https://medium.com/@ozantekindev/javascript-arrow-function-nedir-ve-nas%C4%B1l-kullan%C4%B1l%C4%B1r-es5-vs-es6-7af97a021153)
 
 <br />
 
