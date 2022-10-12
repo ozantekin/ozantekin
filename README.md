@@ -16,7 +16,7 @@
 - 📝 I regularly write articles on [medium.com/@ozantekindev](https://medium.com/@ozantekindev).
 
 - ⛓ Don't break the chain [instagram.com/ozantekindev](https://www.instagram.com/ozantekindev).
-- 👨‍💻 All of my projects are available at [ozantekin.dev](ozantekin.dev).
+- 👨‍💻 All of my projects are available at [ozantekin.dev](https://www.ozantekin.dev/).
 
 - 📫 How to reach me **ardilozantekin@gmail.com** and [Superpeer](https://superpeer.com/ozantekin).
 
