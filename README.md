@@ -1,6 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/ozantekin)
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ozantekindev?style=social">
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC86HNI5ZoebM7zqAVQt6ouw?style=social">
+<a href="https://twitter.com/ozantekindev" ><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ozantekindev?style=social"></a>
+<a href="https://www.youtube.com/channel/UC86HNI5ZoebM7zqAVQt6ouw" > <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC86HNI5ZoebM7zqAVQt6ouw?style=social"> </a>
 
 <br />
 
@@ -11,13 +11,14 @@
 
 - 🌱 I’m currently learning **React, Redux and Firebase**.
 
-- 📝 I regularly write articles on [https://medium.com/@ozantekindev](https://medium.com/@ozantekindev).
-
 - 💬 Ask me about **JavaScript and React**.
 
-- 📫 How to reach me **ozantekindev@gmail.com** and [Superpeer](https://superpeer.com/ozantekin).
+- 📝 I regularly write articles on [medium.com/@ozantekindev](https://medium.com/@ozantekindev).
 
+- ⛓ Don't break the chain [instagram.com/ozantekindev](https://www.instagram.com/ozantekindev).
 - 👨‍💻 All of my projects are available at [ozantekin.dev](ozantekin.dev).
+
+- 📫 How to reach me **ardilozantekin@gmail.com** and [Superpeer](https://superpeer.com/ozantekin).
 
 <br />
 
@@ -25,7 +26,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/ardilozantekin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ardilozantekin" height="30" width="40" /></a>
 </p>
-
 
 <br />
 
