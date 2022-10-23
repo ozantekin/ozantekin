@@ -18,7 +18,7 @@
 - ⛓ Don't break the chain [instagram.com/ozantekindev](https://www.instagram.com/ozantekindev).
 - 👨‍💻 All of my projects are available at [ozantekin.dev](https://www.ozantekin.dev/).
 
-- 📫 How to reach me **ardilozantekin@gmail.com** and [Superpeer](https://superpeer.com/ozantekin).
+- 📫 How to reach me **<a href="mailto:ozantekindev@gmail.com">ozantekindev@gmail.com</a>** and [Superpeer](https://superpeer.com/ozantekin).
 
 <br />
 
