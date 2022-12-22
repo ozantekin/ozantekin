@@ -9,13 +9,9 @@
 
 <br />
 
-- 🌱 I’m currently learning **React, Redux and Firebase**.
+- 📝 I regularly write articles on [ozantekin.dev/notes](https://ozantekin.dev/notes) & [medium.com/@ozantekindev](https://medium.com/@ozantekindev).
 
-- 💬 Ask me about **JavaScript and React**.
-
-- 📝 I regularly write articles on [medium.com/@ozantekindev](https://medium.com/@ozantekindev).
-
-- ⛓ Don't break the chain [instagram.com/ozantekindev](https://www.instagram.com/ozantekindev).
+- ⛓ Don't break the chain [ozantekin.dev/books](ozantekin.dev/books).
 - 👨‍💻 All of my projects are available at [ozantekin.dev](https://www.ozantekin.dev/).
 
 - 📫 How to reach me **<a href="mailto:ozantekindev@gmail.com">ozantekindev@gmail.com</a>** and [Superpeer](https://superpeer.com/ozantekin).
