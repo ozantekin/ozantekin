@@ -13,7 +13,7 @@
 
 - ⛓ Don't break the chain [ozantekin.dev/books](https://ozantekin.dev/books).
 
-- 📫 How to reach me **<a href="mailto:ozantekindev@gmail.com">ozantekindev@gmail.com</a>** and [Superpeer](https://superpeer.com/ozantekin).
+- 📫 How to reach me **<a href="mailto:ozantekindev@gmail.com">ozantekindev@gmail.com</a>**.
 
 <br />
 
