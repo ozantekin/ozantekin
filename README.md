@@ -5,7 +5,7 @@
 <br />
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, I'm Ozan</h1>
-<h4 align="center">Jr.Front-End Developer | Blogger | YouTuber | Computer Engineering Student</h4>
+<h4 align="center">writer • reader • coder</h4>
 
 <br />
 
