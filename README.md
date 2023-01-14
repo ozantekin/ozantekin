@@ -9,11 +9,13 @@
 
 <br />
 
-- 📝 I regularly write articles on [ozantekin.dev/notes](https://ozantekin.dev/notes) & [medium.com/@ozantekindev](https://medium.com/@ozantekindev).
+- 📝 I regularly write articles on [Notes](https://ozantekin.dev/notes) & [Medium](https://medium.com/@ozantekindev) & [Memos](https://www.linkedin.com/newsletters/6906214592075423745/).
 
-- ⛓ Don't break the chain [ozantekin.dev/books](https://ozantekin.dev/books).
+- ⛓ Don't break the chain [Books](https://ozantekin.dev/books).
 
-- 📫 How to reach me <a href="mailto:ozantekindev@gmail.com">ozantekindev@gmail.com</a> & [ozantekin.dev/links](https://ozantekin.dev/links).
+- 📮 Email Newsletter [Revue](https://www.getrevue.co/profile/ozantekin).
+
+- 📫 How to reach me <a href="mailto:ozantekindev@gmail.com">Email</a> & [Links](https://ozantekin.dev/links).
 
 <br />
 
