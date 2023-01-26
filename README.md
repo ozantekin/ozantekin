@@ -13,8 +13,6 @@
 
 - ⛓ Don't break the chain [Books](https://ozantekin.dev/books).
 
-- 📮 Email Newsletter [Revue](https://www.getrevue.co/profile/ozantekin).
-
 - 📫 How to reach me <a href="mailto:ozantekindev@gmail.com">Email</a> & [Links](https://ozantekin.dev/links).
 
 <br />
