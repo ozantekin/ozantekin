@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/ozantekin)
+![](https://komarev.com/ghpvc/?username=ozantekin&style=plastic)
 <a href="https://twitter.com/ozantekindev" ><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ozantekindev?style=social"></a>
 <a href="https://www.youtube.com/OzanTekin" > <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC86HNI5ZoebM7zqAVQt6ouw?style=social"> </a>
 
