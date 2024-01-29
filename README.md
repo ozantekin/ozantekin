@@ -4,21 +4,17 @@
 
 <br />
 
-<h1 align="center">Hi there, I'm Ozan</h1>
-<h4 align="center">writer • reader • coder</h4>
+- I regularly write articles on [Medium](https://medium.com/@ozantekindev), [Memos](https://www.linkedin.com/newsletters/6906214592075423745) and [Blurb](https://ozantekin.substack.com).
+
+- How to reach me <a href="mailto:ozantekindev@gmail.com">email</a>.
+
+- writer • reader • coder
 
 <br />
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@ozantekindev) and [Memos](https://www.linkedin.com/newsletters/6906214592075423745/).
+<h4 align="left">Connect with me:</h3>
+<a href="https://linkedin.com/in/ardilozantekin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ardilozantekin" height="20" width="20" /></a>
 
-- 📫 How to reach me <a href="mailto:ozantekindev@gmail.com">email</a>.
-
-<br />
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ardilozantekin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ardilozantekin" height="30" width="40" /></a>
-</p>
 
 
 
