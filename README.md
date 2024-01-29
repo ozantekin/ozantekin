@@ -4,16 +4,14 @@
 
 <br />
 
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, I'm Ozan</h1>
+<h1 align="center">Hi there, I'm Ozan</h1>
 <h4 align="center">writer • reader • coder</h4>
 
 <br />
 
-- 📝 I regularly write articles on [Notes](https://ozantekin.dev/notes) & [Medium](https://medium.com/@ozantekindev) & [Memos](https://www.linkedin.com/newsletters/6906214592075423745/).
+- 📝 I regularly write articles on [Medium](https://medium.com/@ozantekindev) and [Memos](https://www.linkedin.com/newsletters/6906214592075423745/).
 
-- ⛓ Don't break the chain [Books](https://ozantekin.dev/books).
-
-- 📫 How to reach me <a href="mailto:ozantekindev@gmail.com">Email</a> & [Links](https://ozantekin.dev/links).
+- 📫 How to reach me <a href="mailto:ozantekindev@gmail.com">email</a>.
 
 <br />
 
