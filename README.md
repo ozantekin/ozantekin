@@ -1,4 +1,4 @@
-Hi, I'm Ozan 👋🏻, a frontend dev and indie maker. I build simple, useful products that people enjoy using.
+Hi, I'm Ozan 👋🏻, a frontend developer and indie maker building simple, useful products that people enjoy using. I'm currently working on improving screenie.me with new features and updates.
 
 - [screenie dot me](https://www.screenie.me) - effortless screenshots
 - [unarkhive dot com](https://www.unarkhive.com) - all links, one place
